@@ -61,7 +61,7 @@ From Unity game development and C++ engine projects to Kotlin + Firebase mobile 
 | Platform | Preview |
 |----------|---------|
 | YouTube | [![CampusSocialApp](https://img.youtube.com/vi/78fIew5jJjc/hqdefault.jpg)](https://www.youtube.com/watch?v=78fIew5jJjc) |
-| Bilibili | [![CampusSocialApp CN](https://i0.hdslb.com/bfs/archive/7e9f4dfb2e7b1e5a7cfa6e5b0e6e6e9e3b9c9a5f.jpg)](https://www.bilibili.com/video/BV1EU4y1s7x6) |
+| Bilibili | [![Unity2DCookingGame](https://i0.hdslb.com/bfs/archive/7e9f4dfb2e7b1e5a7cfa6e5b0e6e6e9e3b9c9a5f.jpg)](https://www.bilibili.com/video/BV1EU4y1s7x6) |
 
 ---
 
