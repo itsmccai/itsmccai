@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <pattern id="px" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect width="16" height="16" fill="#0b1020"/>
+      <rect x="0" y="0" width="8" height="8" fill="#111827"/>
+      <rect x="8" y="8" width="8" height="8" fill="#111827"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#px)"/>
+
+  <text x="60" y="130" font-size="46" fill="white" font-family="Arial" font-weight="bold">
+    Zeyu Cai (He/Him)
+  </text>
+  <text x="60" y="170" font-size="22" fill="#c7d2fe" font-family="Arial">
+    Game Developer · Kotlin + Firebase · Unity + C++
+  </text>
+
+  <!-- Animated pixel character -->
+  <g transform="translate(950 90)">
+    <animateTransform attributeName="transform" type="translate"
+      values="950 90; 950 80; 950 90" dur="2s" repeatCount="indefinite"/>
+    <rect x="0" y="40" width="40" height="40" fill="#22c55e"/>
+    <rect x="8" y="0" width="24" height="24" fill="#38bdf8"/>
+    <rect x="12" y="8" width="4" height="4" fill="white"/>
+    <rect x="20" y="8" width="4" height="4" fill="white"/>
+  </g>
+</svg>
