@@ -68,8 +68,9 @@ From Unity game development and C++ engine projects to Kotlin + Firebase mobile 
 
 ## 📊 GitHub Activity
 
-![Zeyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmccai&show_icons=true&theme=gruvbox)
+![Zeyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmccai&show_icons=true&theme=gruvbox&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmccai&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmccai&layout=compact&theme=gruvbox&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=itsmccai&theme=gruvbox)
+
