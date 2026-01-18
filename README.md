@@ -1,4 +1,4 @@
-<img src="assets/zeyu_pixel_banner.svg" width="100%" />
+<img src="assets/zeyu_soft_pink_banner.svg" width="100%" />
 
 **Digital Builder | Game Developer**
 
@@ -55,6 +55,16 @@ From Unity game development and C++ engine projects to Kotlin + Firebase mobile 
 </p>
 
 ---
+
+## 🐱 Featured Project — TravelMeow
+
+An interactive web app I built as a personal gift, where users can feed a virtual cat while exploring a cute travel-themed interface.
+
+✨ Built to combine creativity, emotion, and frontend interaction  
+🎮 Mini-game style web experience  
+💗 Designed as a surprise project
+
+🔗 Live Demo: https://itsmccai.github.io/TravelMeow/
 
 ## 🎥 Featured Videos
 
