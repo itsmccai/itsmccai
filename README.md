@@ -1,3 +1,4 @@
+<img src="assets/zeyu_pixel_banner.svg" width="100%" />
 # 🚀 Zeyu Cai (He/Him)
 
 **Digital Builder | Game Developer**
