@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Zeyu Cai — Computer Vision, 3D, AI, Games">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f1f"/><stop offset="0.55" stop-color="#1a1040"/><stop offset="1" stop-color="#2b0f3a"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e5ff"/><stop offset="0.5" stop-color="#7c4dff"/><stop offset="1" stop-color="#ff4fd8"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#7c4dff" stroke-opacity="0.22" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="c"><rect width="1200" height="320" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="40 40" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <!-- orbs -->
+    <circle cx="170" cy="70" r="90" fill="#00e5ff" opacity="0.10"><animate attributeName="r" values="80;105;80" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="260" r="120" fill="#ff4fd8" opacity="0.12"><animate attributeName="r" values="110;140;110" dur="7s" repeatCount="indefinite"/></circle>
+    <!-- point cloud / gaussian splat dots -->
+    <g fill="#00e5ff">
+      <circle cx="860" cy="70" r="3"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.1s" repeatCount="indefinite"/></circle>
+      <circle cx="905" cy="110" r="2.5" fill="#7c4dff"><animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="950" cy="60" r="3.5" fill="#ff4fd8"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.9s" repeatCount="indefinite"/></circle>
+      <circle cx="1000" cy="130" r="2.5"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="1060" cy="85" r="3" fill="#7c4dff"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="1110" cy="140" r="2.5" fill="#ff4fd8"><animate attributeName="opacity" values="1;0.3;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    </g>
+    <!-- tracking box (SAM2-style) -->
+    <g fill="none" stroke="#00e5ff" stroke-width="2" filter="url(#glow)">
+      <rect x="880" y="170" width="150" height="100" rx="6" stroke-dasharray="10 6">
+        <animate attributeName="stroke-dashoffset" from="0" to="-32" dur="1.2s" repeatCount="indefinite"/>
+        <animate attributeName="x" values="880;930;880" dur="6s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <text x="890" y="190" font-family="monospace" font-size="12" fill="#00e5ff">
+      <animate attributeName="x" values="890;940;890" dur="6s" repeatCount="indefinite"/>player_01 · 0.97</text>
+    <!-- title -->
+    <text x="70" y="140" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="76" font-weight="800" fill="url(#neon)" filter="url(#glow)" letter-spacing="2">ZEYU CAI</text>
+    <text x="72" y="190" font-family="monospace" font-size="24" fill="#cfd8ff">Computer Vision · 3D Reconstruction · AI</text>
+    <text x="72" y="228" font-family="monospace" font-size="18" fill="#8fa0d8">Game Dev  ×  Human-Centered AI  ×  JAIST</text>
+    <rect x="72" y="248" width="260" height="4" rx="2" fill="url(#neon)">
+      <animate attributeName="width" values="60;380;60" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <!-- scanline -->
+    <rect x="0" y="0" width="1200" height="3" fill="#ffffff" opacity="0.08">
+      <animate attributeName="y" from="-4" to="320" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="none" stroke="url(#neon)" stroke-width="2" opacity="0.8"/>
+</svg>
