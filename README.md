@@ -1,76 +1,73 @@
-<img src="assets/zeyu_soft_pink_banner.svg" width="100%" />
+<img src="assets/zeyu_neon_banner.svg" width="100%" alt="Zeyu Cai — Computer Vision, 3D, AI, Games" />
 
-**Zeyu Cai (蔡澤宇) | Computer Vision & 3D · AI Engineer | Game Developer**
+<div align="center">
 
-I'm a Master's student at JAIST (Xie Haoran Laboratory, Human-Centered AI), working on computer vision and 3D reconstruction. I hold a B.S. in Computer Science from Temple University, Japan Campus, and I build things across vision pipelines, LLM workflows, and game development.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=Computer+Vision+%C2%B7+3D+Gaussian+Splatting;SAM2+Sports+Tracking+%C2%B7+LLM+%2F+RAG+Workflows;Unity+%C2%B7+C%2B%2B+%C2%B7+Kotlin+Game+%26+App+Builder;Master%27s+%40+JAIST+%7C+Xie+Lab+(Human-Centered+AI))](https://github.com/itsmccai)
 
-From sports-video segmentation and 3D Gaussian Splatting to Unity games and Kotlin + Firebase mobile apps, I like turning ideas into working, user-focused prototypes. I showcase some of my projects on YouTube.
+![Location](https://img.shields.io/badge/📍_Ishikawa,_Japan-0b0f1f?style=for-the-badge)
+![JAIST](https://img.shields.io/badge/JAIST-Xie_Lab-7c4dff?style=for-the-badge)
+![JLPT](https://img.shields.io/badge/JLPT-N2-ff4fd8?style=for-the-badge)
+![Open](https://img.shields.io/badge/Open_to-Internships-00e5ff?style=for-the-badge&labelColor=0b0f1f)
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@xi5016)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@xi5016)
+[![Bilibili](https://img.shields.io/badge/Bilibili-Follow-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/451051903)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyu-cai-0a1675292)
+[![Email](https://img.shields.io/badge/Email-singalcai@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:singalcai@gmail.com)
+
+</div>
+
+---
+
+## ⚡ About
+
+Master's student at **JAIST** (Xie Haoran Laboratory, Human-Centered AI) working on **computer vision and 3D reconstruction**. B.S. in Computer Science from Temple University, Japan Campus.
+I turn ideas into working prototypes — from sports-video tracking and 3D Gaussian Splatting to Unity games and Kotlin + Firebase apps.
+
+```text
+> whoami
+zeyu_cai  →  CV / 3D / AI engineer  ×  game developer
+> languages
+中文 (native)  ·  English (advanced)  ·  日本語 (JLPT N2)
+```
 
 ---
 
 ## 🔬 Computer Vision & AI
-- Sports video segmentation and real-time tracking with SAM2 (NBA game footage)
-- 3D Gaussian Splatting and vision pipelines: 3DGS, COLMAP, gsplat, gsplat.js, MediaPipe
-- LLM / RAG workflows with n8n (inquiry-to-quotation automation prototype)
-- Generative AI data evaluation (Python, JavaScript, C++ content; Chinese / English / Japanese)
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🏀 **Sports Video Tracking** | Segmentation and real-time tracking on NBA game footage | SAM2 |
+| 🌐 **3D Gaussian Splatting Pipelines** | 3D reconstruction and vision pipelines, pose / landmark tracking | 3DGS · COLMAP · gsplat · gsplat.js · MediaPipe |
+| 🤖 **Inquiry → Quotation Automation** | LLM / RAG workflow with human review for repeatable quotation tasks | n8n · RAG · Google Sheets |
 
 ## 🕹 Game Development
-- Unity 3D cooking game (cooking controller, recipe logic, UI, tutorial highlighting)
+- Unity 3D cooking game — cooking controller, recipe logic, UI, tutorial highlighting
 - C++ / SFML ECS platformer (Temple CIS-3100)
 - Gameplay systems, UI logic, scene architecture
 
 ## 📱 Mobile & Web
-- Campus social app built with Kotlin + Firebase (Auth, Firestore, Storage, MVVM)
+- Campus social app — Kotlin + Firebase (Auth, Firestore, Storage), MVVM, real-time interaction
 - Frontend prototyping, FastAPI / REST APIs, Vue 3
-- Git / GitHub collaboration
-
-## 🌏 Languages I Speak
-- 🇨🇳 Chinese — Native
-- 🇺🇸 English — Advanced
-- 🇯🇵 Japanese — JLPT N2
 
 ---
 
-## 🌍 Connect With Me
-📌 LinkedIn: https://www.linkedin.com/in/zeyu-cai-0a1675292  
-📧 Email: singalcai@gmail.com  
-🎥 YouTube: https://www.youtube.com/@xi5016  
-📺 Bilibili: https://space.bilibili.com/451051903  
+## 🧰 Tech Stack
 
----
-
-### 💻 Languages and Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,rust,kotlin,java,fastapi,vue,sqlite,html,css,git,unity,firebase&perline=8" alt="skills" />
 </p>
 
 ---
 
 ## 🐱 Featured Project — TravelMeow
 
-An interactive web app I built as a personal gift, where users can feed a virtual cat while exploring a cute travel-themed interface.
+An interactive web app I built as a personal gift, where users feed a virtual cat while exploring a cute travel-themed interface.
 
-✨ Built to combine creativity, emotion, and frontend interaction  
+✨ Creativity, emotion, and frontend interaction  
 🎮 Mini-game style web experience  
 💗 Designed as a surprise project
 
-🔗 Live Demo: https://itsmccai.github.io/TravelMeow/
+🔗 **Live Demo:** https://itsmccai.github.io/TravelMeow/
 
 ## 🎥 Featured Videos
 
@@ -78,14 +75,18 @@ An interactive web app I built as a personal gift, where users can feed a virtua
 |----------|---------|
 | YouTube | [![CampusSocialApp](https://img.youtube.com/vi/78fIew5jJjc/hqdefault.jpg)](https://www.youtube.com/watch?v=78fIew5jJjc) |
 | YouTube | [![SFML2DRougelikeGame](https://img.youtube.com/vi/jln4MhcEZ7o/hqdefault.jpg)](https://www.youtube.com/watch?v=jln4MhcEZ7o) |
-| Bilibili | [![Unity2DCookingGame](https://i0.hdslb.com/bfs/archive/7e9f4dfb2e7b1e5a7cfa6e5b0e6e6e9e3b9c9a5f.jpg)](https://www.bilibili.com/video/BV1EU4y1s7x6) |
+| Bilibili | [Unity 2D Cooking Game ▶](https://www.bilibili.com/video/BV1EU4y1s7x6) |
 
 ---
 
 ## 📊 GitHub Activity
 
-![Zeyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmccai&show_icons=true&theme=gruvbox&cache_seconds=1800)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsmccai&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmccai&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itsmccai&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmccai&layout=compact&theme=gruvbox&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=itsmccai&theme=gruvbox)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=110&section=footer" width="100%" alt="" />
